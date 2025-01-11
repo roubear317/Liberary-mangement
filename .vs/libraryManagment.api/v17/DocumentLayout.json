@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Liberary mangement\\libraryManagment.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|d:\\liberary mangement\\librarymanagment.api\\librarymanagment.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|solutionrelative:librarymanagment.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810219-0840-4E94-8E53-FC935BF5021A}|libraryManagment.EF\\libraryManagment.EF.csproj|d:\\liberary mangement\\librarymanagment.api\\librarymanagment.ef\\repos\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16810219-0840-4E94-8E53-FC935BF5021A}|libraryManagment.EF\\libraryManagment.EF.csproj|solutionrelative:librarymanagment.ef\\repos\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|d:\\liberary mangement\\librarymanagment.api\\librarymanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|solutionrelative:librarymanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|d:\\liberary mangement\\librarymanagment.api\\librarymanagment.api\\extention services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|solutionrelative:librarymanagment.api\\extention services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|d:\\liberary mangement\\librarymanagment.api\\librarymanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9840CAD-82AA-42EB-9707-8F945E349AC0}|libraryManagment.api\\libraryManagment.api.csproj|solutionrelative:librarymanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810219-0840-4E94-8E53-FC935BF5021A}|libraryManagment.EF\\libraryManagment.EF.csproj|d:\\liberary mangement\\librarymanagment.api\\librarymanagment.ef\\repos\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16810219-0840-4E94-8E53-FC935BF5021A}|libraryManagment.EF\\libraryManagment.EF.csproj|solutionrelative:librarymanagment.ef\\repos\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.EF\\Repos\\BookRepository.cs",
+              "RelativeDocumentMoniker": "libraryManagment.EF\\Repos\\BookRepository.cs",
+              "ToolTip": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.EF\\Repos\\BookRepository.cs",
+              "RelativeToolTip": "libraryManagment.EF\\Repos\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:06:22.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "libraryManagment.api\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\Controllers\\BookController.cs",
+              "RelativeToolTip": "libraryManagment.api\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAMwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:26:42.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.EF\\Repos\\TokenService.cs",
+              "RelativeDocumentMoniker": "libraryManagment.EF\\Repos\\TokenService.cs",
+              "ToolTip": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.EF\\Repos\\TokenService.cs",
+              "RelativeToolTip": "libraryManagment.EF\\Repos\\TokenService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:50:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\Extention Services\\IdentityService.cs",
+              "RelativeDocumentMoniker": "libraryManagment.api\\Extention Services\\IdentityService.cs",
+              "ToolTip": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\Extention Services\\IdentityService.cs",
+              "RelativeToolTip": "libraryManagment.api\\Extention Services\\IdentityService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:50:39.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\appsettings.json",
+              "RelativeDocumentMoniker": "libraryManagment.api\\appsettings.json",
+              "ToolTip": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\appsettings.json",
+              "RelativeToolTip": "libraryManagment.api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T16:43:47.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\Program.cs",
+              "RelativeDocumentMoniker": "libraryManagment.api\\Program.cs",
+              "ToolTip": "D:\\Liberary mangement\\libraryManagment.api\\libraryManagment.api\\Program.cs",
+              "RelativeToolTip": "libraryManagment.api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:51:12.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

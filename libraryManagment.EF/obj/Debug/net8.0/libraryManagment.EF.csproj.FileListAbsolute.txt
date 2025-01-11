@@ -1,0 +1,17 @@
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\bin\Debug\net8.0\libraryManagment.EF.deps.json
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\bin\Debug\net8.0\libraryManagment.EF.runtimeconfig.json
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\bin\Debug\net8.0\libraryManagment.EF.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\bin\Debug\net8.0\libraryManagment.EF.pdb
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\bin\Debug\net8.0\libraryManagment.Core.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\bin\Debug\net8.0\libraryManagment.Core.pdb
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.csproj.AssemblyReference.cache
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.AssemblyInfoInputs.cache
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.AssemblyInfo.cs
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.csproj.CoreCompileInputs.cache
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryM.844C46F7.Up2Date
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\refint\libraryManagment.EF.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.pdb
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.genruntimeconfig.cache
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\ref\libraryManagment.EF.dll

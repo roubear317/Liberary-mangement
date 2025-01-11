@@ -1,0 +1,12 @@
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\bin\Debug\net8.0\libraryManagment.Core.deps.json
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\bin\Debug\net8.0\libraryManagment.Core.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\bin\Debug\net8.0\libraryManagment.Core.pdb
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.csproj.AssemblyReference.cache
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.AssemblyInfoInputs.cache
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.AssemblyInfo.cs
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.csproj.CoreCompileInputs.cache
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\refint\libraryManagment.Core.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.pdb
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\ref\libraryManagment.Core.dll
