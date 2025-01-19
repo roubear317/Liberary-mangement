@@ -20,6 +20,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbcontext>(options=>options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<IBookRepository,BookRepository>();
+builder.Services.AddScoped<IBookService,BookService>();
 builder.Services.AddIdentity<ApplicationUser,IdentityRole>().AddEntityFrameworkStores<AppDbcontext>().AddDefaultTokenProviders();
 
 builder.Services.AddIdentityService(builder.Configuration);

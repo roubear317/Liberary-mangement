@@ -152,3 +152,4 @@ D:\Liberary mangement\libraryManagment.api\libraryManagment.api\obj\Debug\net8.0
 D:\Liberary mangement\libraryManagment.api\libraryManagment.api\obj\Debug\net8.0\libraryManagment.api.pdb
 D:\Liberary mangement\libraryManagment.api\libraryManagment.api\obj\Debug\net8.0\libraryManagment.api.genruntimeconfig.cache
 D:\Liberary mangement\libraryManagment.api\libraryManagment.api\obj\Debug\net8.0\ref\libraryManagment.api.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.api\obj\Debug\net8.0\libraryManagment.api.sourcelink.json

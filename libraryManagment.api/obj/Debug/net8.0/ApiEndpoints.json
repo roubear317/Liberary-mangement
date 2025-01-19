@@ -74,20 +74,25 @@
   {
     "ContainingType": "libraryManagment.api.Controllers.BookController",
     "Method": "GetBookByIsbnAsync",
-    "RelativePath": "api/Book/{Isbn}",
+    "RelativePath": "api/Book/{isbn}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Isbn",
+        "Name": "isbn",
         "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "isbn",
+        "Type": "",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "libraryManagment.EF.DTOS.BookDto",
+        "Type": "libraryManagment.Core.Model.ResponseModel\u00601[[libraryManagment.EF.DTOS.BookDto, libraryManagment.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -113,7 +118,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "libraryManagment.EF.DTOS.BookDto",
+        "Type": "libraryManagment.Core.Model.ResponseModel\u00601[[libraryManagment.EF.DTOS.BookDto, libraryManagment.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -131,39 +136,69 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "libraryManagment.Core.Model.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[libraryManagment.EF.DTOS.BookDto, libraryManagment.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "libraryManagment.api.Controllers.BookController",
     "Method": "BorrowBook",
-    "RelativePath": "api/Book/borrow/{Isbn}",
+    "RelativePath": "api/Book/borrow",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Isbn",
+        "Name": "isbn",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "libraryManagment.Core.Model.ResponseModel\u00601[[libraryManagment.EF.DTOS.BookDto, libraryManagment.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "libraryManagment.api.Controllers.BookController",
     "Method": "ReturnBook",
-    "RelativePath": "api/Book/return/{Isbn}",
+    "RelativePath": "api/Book/return",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Isbn",
+        "Name": "isbn",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "libraryManagment.Core.Model.ResponseModel\u00601[[libraryManagment.EF.DTOS.BookDto, libraryManagment.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "libraryManagment.api.Controllers.WeatherForecastController",

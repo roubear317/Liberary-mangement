@@ -15,3 +15,4 @@ D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\
 D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.pdb
 D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.genruntimeconfig.cache
 D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\ref\libraryManagment.EF.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.EF\obj\Debug\net8.0\libraryManagment.EF.sourcelink.json

@@ -10,3 +10,4 @@ D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.
 D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\refint\libraryManagment.Core.dll
 D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.pdb
 D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\ref\libraryManagment.Core.dll
+D:\Liberary mangement\libraryManagment.api\libraryManagment.Core\obj\Debug\net8.0\libraryManagment.Core.sourcelink.json
